@@ -2,6 +2,7 @@
   "name": "vanilla",
   "version": "1.0.0",
   "description": "JavaScript example starter project",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build ./*.html ./Tetris/*.html"
