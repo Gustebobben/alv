@@ -5,8 +5,9 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build ./*.html ./Tetris/*.html"
+    "build": "parcel build"
   },
+  "source": "./src/index.html",
   "dependencies": {
     "js-confetti": "0.11.0"
   },
