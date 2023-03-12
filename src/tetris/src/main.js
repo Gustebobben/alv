@@ -123,11 +123,11 @@ function animate(now = 0) {
     level = LEVELS[4];
     updateAccount("level", 4);
   }
-  if (account.score > 300) {
+  if (account.score > 500) {
     level = LEVELS[5];
     updateAccount("level", 5);
   }
-  if (account.score > 1000) {
+  if (account.score > 5000) {
     level = LEVELS[6];
     updateAccount("level", 6);
   }

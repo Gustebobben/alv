@@ -1,3 +1,0 @@
-# Tetres
-
-Created with CodeSandbox
